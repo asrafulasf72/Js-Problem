@@ -107,3 +107,21 @@ Write a function that prints numbers from 1 to 20 with the following rules:
 **Example Output:**
 1, 2, Ping, 4, Pong, Ping, 7, 8, Ping, Pong,
 11, Ping, 13, 14, PingPong, 16, ...
+
+## Problem 11:
+You are given an array of numbers. Count how many times the a number is repeated in the array.
+
+sample-input: numbers = [5,6,11,12,98, 5]
+
+find: 5
+
+output: 2
+
+
+sample-input:
+
+numbers = [5,6,11,12,98, 5]
+
+find: 25
+
+output: 0
