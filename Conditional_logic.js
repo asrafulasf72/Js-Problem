@@ -12,3 +12,11 @@ function addSum(number1, number2){
 }
 
 console.log(addSum(10,5))
+
+
+function multiplication(number3, number4){
+    const mul=number3*number4
+    return mul
+}
+
+console.log(multiplication(10,5))
