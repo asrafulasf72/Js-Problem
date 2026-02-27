@@ -19,4 +19,6 @@ function multiplication(number3, number4){
     return mul
 }
 
-console.log(multiplication(10,5))
+const result= multiplication(10,5)
+console.log(result)
+
