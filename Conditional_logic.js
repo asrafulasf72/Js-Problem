@@ -11,7 +11,7 @@ function addSum(number1, number2){
         return sum
 }
 
-console.log(addSum(10,5))
+
 
 
 function multiplication(number3, number4){
@@ -22,3 +22,10 @@ function multiplication(number3, number4){
 const result= multiplication(10,5)
 console.log(result)
 
+function subtraction(number1, number2){
+    let sub=number1-number2
+    return sub
+}
+
+
+console.log(subtraction(25,21), multiplication(5,5), addSum(10,10));
