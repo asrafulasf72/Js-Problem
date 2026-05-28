@@ -117,5 +117,6 @@ find: 5
 
 output: 2
 
-Js object 
+Js object ?
+A JavaScript Object is a collection of key-value pairs used to store related data and functionality.
 
