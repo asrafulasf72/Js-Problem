@@ -120,3 +120,9 @@ output: 2
 Js object ?
 A JavaScript Object is a collection of key-value pairs used to store related data and functionality.
 
+const car = {
+  brand: "Toyota",
+  color: "Red",
+  speed: 120
+};
+
