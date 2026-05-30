@@ -125,4 +125,7 @@ const car = {
   color: "Red",
   speed: 120
 };
+Here:
 
+brand, color, and speed are keys (also called properties)
+"Toyota", "Red", and 120 are values
