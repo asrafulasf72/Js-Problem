@@ -129,3 +129,12 @@ Here:
 
 brand, color, and speed are keys (also called properties)
 "Toyota", "Red", and 120 are values
+
+Why Objects Are Important
+
+Objects are used everywhere in JavaScript for:
+
+Storing structured data
+Building applications
+Representing users, products, settings, etc.
+Working with APIs and JSON
